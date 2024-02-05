@@ -1,0 +1,15 @@
+/Users/nergiznadirli/Desktop/homework0202/homework0202/bin/Debug/net6.0/homework0202
+/Users/nergiznadirli/Desktop/homework0202/homework0202/bin/Debug/net6.0/homework0202.deps.json
+/Users/nergiznadirli/Desktop/homework0202/homework0202/bin/Debug/net6.0/homework0202.runtimeconfig.json
+/Users/nergiznadirli/Desktop/homework0202/homework0202/bin/Debug/net6.0/homework0202.dll
+/Users/nergiznadirli/Desktop/homework0202/homework0202/bin/Debug/net6.0/homework0202.pdb
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/homework0202.csproj.AssemblyReference.cache
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/homework0202.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/homework0202.AssemblyInfoInputs.cache
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/homework0202.AssemblyInfo.cs
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/homework0202.csproj.CoreCompileInputs.cache
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/homework0202.dll
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/refint/homework0202.dll
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/homework0202.pdb
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/homework0202.genruntimeconfig.cache
+/Users/nergiznadirli/Desktop/homework0202/homework0202/obj/Debug/net6.0/ref/homework0202.dll
